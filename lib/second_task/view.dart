@@ -162,6 +162,24 @@ class Task_2 extends StatelessWidget {
                       )
                     ],
                   ),
+                  const Row(
+                    mainAxisAlignment: MainAxisAlignment.end,
+                    children: [
+                      Text(
+                        "بيتزا",
+                        textAlign: TextAlign.end,
+                        style: TextStyle(
+                          color: Colors.black,
+                          fontSize: 20,
+                          fontWeight: FontWeight.bold
+                        ),
+                      ),
+                      SizedBox(width: 5,),
+                      Text(
+                        "🍕"
+                      ),
+                    ],
+                  ),
                   read_about_it(),
                   const SizedBox(height: 10,),
                   read_about_it(),
