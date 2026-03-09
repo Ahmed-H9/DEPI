@@ -1,0 +1,38 @@
+[
+    {
+    "id":1,
+    "src":"lib/assets/Task_2/frise.png",
+    "mealName":"بطاطس مقليه",
+    "resturantName":"مطعم ختعم",
+    "price":20,
+    "review":3.2,
+    "isFav":0
+    },
+    {
+    "id":2,
+    "src":"lib/assets/Task_2/chiken.png",
+    "mealName":"فراخ مشوية",
+    "resturantName":"مطعم نعمة",
+    "price":200,
+    "review":4.6,
+    "isFav":0
+    },
+    {
+    "id":3,
+    "src":"lib/assets/Task_2/hot_pasta.png",
+    "mealName":"معكرونه بالصوص وقطع بانيه حار",
+    "resturantName":"كشري الزعيم",
+    "price":70,
+    "review":2.9,
+    "isFav":0
+    },
+    {
+    "id":4,
+    "src":"lib/assets/Task_2/pasta&salad.png",
+    "mealName":"معكرونه بالسلطه",
+    "resturantName":"مطعم احلى اكله",
+    "price":150,
+    "review":1.9,
+    "isFav":0
+    }
+]
